@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "shooter",
+      "display_name": "Shooter",
+      "description": "Games involving guns and shooting"
+    },
+    {
+      "_id": 2,
+      "name": "rpg",
+      "display_name": "RPG",
+      "description": "Roleplaying Game"
+    },
+    {
+      "name": "strategy",
+      "display_mame": "Strategy",
+      "description": "tactical game"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "shooter",
+      "name": "halo1",
+      "display_name": "Halo Combat Evolved",
+      "description": "Investigate an ancient alien relic"
+    },
+    {
+      "_id": 2,
+      "category": "shooter",
+      "name": "gears of war",
+      "display_mame": "Gears of War",
+      "description": "thrid person shooter"
+    }
+  ]
+}
