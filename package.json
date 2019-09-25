@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch data/db.json --routes routes.json --id _id",
-    "lint": "eslint **/*.js",
-    "test": "jest --verbose",
-    "test-watch": "jest --verbose --watchAll"
+    "lint": "eslint **/*.js"
   },
   "keywords": [],
   "author": "",
