@@ -13,9 +13,16 @@
       "description": "Roleplaying Game"
     },
     {
+      "_id": 3,
       "name": "strategy",
-      "display_mame": "Strategy",
-      "description": "tactical game"
+      "display_name": "Strategy",
+      "description": "resource based strategy game"
+    },
+    {
+      "_id": 4,
+      "name": "action",
+      "display_name": "action",
+      "description": "combat/puzzle solving"
     }
   ],
   "products": [
@@ -30,8 +37,8 @@
       "_id": 2,
       "category": "shooter",
       "name": "gears of war",
-      "display_mame": "Gears of War",
-      "description": "thrid person shooter"
+      "display_name": "Gears of War",
+      "description": "third person shooter"
     }
   ]
 }
